@@ -11,5 +11,5 @@ Code Structure:
 
 1. The website is desgined using the CodeIgniter MVC framework.
 2. The Controllers are under application/controllers, Models i.e. database queries are under application/models and all HTML frontend pages which are in application/views.
-3. Here I am already making use of CleanZone Bootstrap theme. So all UI related changes can be made in JS/CSS. 
+3. Here I am already making use of CleanZone Bootstrap theme. So all UI related changes can be made in JS/CSS. Also I am not uploading all JS and CodeIgniter Folders. One can make relevant changes as per their theme.
 4. A live version of this website running is at : https://chiragshah003.000webhostapp.com/
